@@ -1,3 +1,13 @@
+Material Calendar View
+======================
+
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Material%20Calendar%20View-blue.svg?style=flat)](https://android-arsenal.com/details/1/1531)
+
+![Demo Screen Capture](/images/screencast.gif)
+
+A better looking implementation of android's CalendarView. The goal is to have a more Material look
+and feel, rather than 100% parity with the platform's implementation.
+
 Usage
 -----
 
